@@ -29,7 +29,7 @@ Das Projekt ergänzt mein erstes Projekt und ist ein weiterer Schritt, um meine 
 - Zurücksetzen der Tagesdaten (neuer Tag)
 
 # Ausführung:
-Start über die Python-Konsole mit der Datei main.py.
+Start über die Python-Konsole mit der Datei kalorien_tracker.py
 
 # Autor:
 Yousif Shehneh
